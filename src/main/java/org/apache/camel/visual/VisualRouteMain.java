@@ -1,5 +1,5 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
-//DEPS org.apache.camel:camel-route-parser:3.6.0-SNAPSHOT
+//DEPS org.apache.camel:camel-route-parser:3.5.0
 //DEPS org.jboss.forge.roaster:roaster-jdt:2.22.0.Final
 
 /*
