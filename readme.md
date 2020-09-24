@@ -1,4 +1,4 @@
-= Camel Visual
+# Camel Visual
 
 _A poor man's Camel route visualizer_
 
@@ -10,14 +10,14 @@ and output a visual route graph (current text based).
 This tool can be run in real time while you develop your Camel routes and
 see live updates.
 
-== How to run
+## How to run
 
 The tool can be run via 
 
 - jbang
 - Maven
 
-=== Run via jbang
+### Run via jbang
 
 First you must install [jbang].
 
@@ -29,13 +29,13 @@ Then you can run the tool via jbang
 
     jbang src/main/java/org/apache/camel/visual/VisualRouteMain.java
     
-=== Run via Maven
+### Run via Maven
 
 You can run via the maven exec plugin
 
     mvn exec:java
     
-=== Run Arguments
+### Run Arguments
 
 The tool accepts two arguments
 
