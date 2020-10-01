@@ -1,0 +1,7 @@
+{
+  "aliases": {
+    "launch": {
+      "script-ref": "src/main/java/org/apache/camel/visual/VisualRouteMain.java"
+    }
+  }
+}
