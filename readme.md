@@ -21,17 +21,13 @@ The tool can be run via
 
 First you must install [jbang].
 
-Then you can run the tool by executing the source file (you may need to set execute permission on the source file)
-
-    chmod +x src/main/java/org/apache/camel/visual/VisualRouteMain.java
-
 Then you can run the tool via jbang
 
-    jbang src/main/java/org/apache/camel/visual/VisualRouteMain.java
-    
+    jbang launch@davsclaus/camel-visual
+
 ### Run via Maven
 
-You can run via the maven exec plugin
+Here you first need to clone the project and then you can run via the maven exec plugin
 
     mvn exec:java
     
