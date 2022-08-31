@@ -35,7 +35,7 @@
         <dependency>
             <groupId>org.apache.camel</groupId>
             <artifactId>camel-route-parser</artifactId>
-            <version>3.9.0</version>
+            <version>3.10.0</version>
         </dependency>
 
         <!-- roaster java parser -->
@@ -49,7 +49,7 @@
         <dependency>
             <groupId>org.apache.camel</groupId>
             <artifactId>camel-core-engine</artifactId>
-            <version>3.9.0</version>
+            <version>3.10.0</version>
         </dependency>
 
     </dependencies>
