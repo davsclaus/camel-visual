@@ -1,6 +1,6 @@
 # Camel Visual
 
-_A poor man's Camel route visualizer_
+A poor man's Camel route visualizer.
 
 This project is a hacky prototype of a text based Camel route visualizer.
 
